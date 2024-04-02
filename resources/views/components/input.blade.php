@@ -1,0 +1,1 @@
+<input class="bg-white rounded shadow-md m-3 p-3 border-gray-300 border-2 {{$css}}" {{$attributes}}>
